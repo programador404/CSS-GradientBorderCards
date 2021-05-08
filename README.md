@@ -1,7 +1,7 @@
-![Github Issues](https://img.shields.io/github/issues/devbrabo/CSS-GradientBorderCards)
-![Github Forks](https://img.shields.io/github/forks/devbrabo/CSS-GradientBorderCards)
-![Github Stars](https://img.shields.io/github/stars/devbrabo/CSS-GradientBorderCards)
-![Github License](https://img.shields.io/github/license/devbrabo/CSS-GradientBorderCards)
+![Github Issues](https://img.shields.io/github/issues/programador404/CSS-GradientBorderCards)
+![Github Forks](https://img.shields.io/github/forks/programador404/CSS-GradientBorderCards)
+![Github Stars](https://img.shields.io/github/stars/programador404/CSS-GradientBorderCards)
+![Github License](https://img.shields.io/github/license/programador404/CSS-GradientBorderCards)
 ![HTML](https://img.shields.io/badge/HTML-components-orange)
 ![CSS](https://img.shields.io/badge/CSS-styles-yellow)
 
